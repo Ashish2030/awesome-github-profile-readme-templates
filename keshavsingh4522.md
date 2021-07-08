@@ -24,7 +24,7 @@
 
 <!-- start work experience section -->
 <details>
-<summary><b> My Work Experience :point_right: </b></summary>
+<summary> My Work Experience :point_right: </summary>
 <table>
   <thead>
     <tr>

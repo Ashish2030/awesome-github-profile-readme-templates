@@ -9,12 +9,12 @@
 - 🔭 I’m currently working on will be sharing once done .
 - 🌱 I’m currently learning OpenCv and Deep Learning concpets and implementations.
 - 👯 I’m looking to collaborate on OpenCv projects .
-- 💬 Ask me about Learning path for Machine Learning and Data Analyst.
+- 💬 Ask me about Learning path in Machine Learning and Data Analyst.
 - 📫 How to reach me: mail at prajakta916mane1@gmail.com
 
 ## Can Help You With :star: :star:  :
-- Provinding Complete insight of you Data including EDA.
-- Applaying Machine Learning Concepts to Solve real life Problem.
+- Providing Complete insight of you Data including EDA.
+- Applying Machine Learning Concepts to Solve real life Problem.
 - Complete Data Manipulation starting from scrapping to dataframe.
 
 
